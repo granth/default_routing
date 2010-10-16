@@ -1,7 +1,7 @@
 require 'test/unit'
 require 'rubygems'
 require 'action_controller'
-require File.dirname(__FILE__) + "/../init"
+require 'default_routing'
 
 class ChildrenController < Class.new(ActionController::Base)
   def show
