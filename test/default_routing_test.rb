@@ -1,5 +1,4 @@
 require 'test/unit'
-require 'rubygems'
 require 'action_controller'
 require 'default_routing'
 

@@ -1,3 +1,4 @@
-source :gemcutter
+source "http://rubygems.org"
 
-gem 'actionpack', '~> 2.3.10'
+# Specify your gem's dependencies in default_routing.gemspec
+gemspec
