@@ -1,6 +1,11 @@
 DefaultRouting
 ==============
 
+*NOTE*
+This fork (granth/default_routing) cuts a bunch of code. The only thing I
+wanted to work with Rails 2.3.11, was using :default => true. I'm not using
+the :show option.
+
 This is an SEO Optimization plugin that allows you to specify that one or more nested routes will not have
 a path segment added to their url.
 
